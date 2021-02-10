@@ -1,10 +1,12 @@
 id,name
-ocd-division/country:et/state:afar,Afar
-ocd-division/country:et/state:amhara,Amhara
-ocd-division/country:et/state:benishangul_gumuz,Benishangul-Gumuz
-ocd-division/country:et/state:gambela,Gambela
-ocd-division/country:et/state:harari,Harari
-ocd-division/country:et/state:oromia,Oromia
-ocd-division/country:et/state:somali,Somali
-ocd-division/country:et/state:snnp,"Southern Nations, Nationalities, and Peoples"
-ocd-division/country:et/state:tigray,Tigray
+ocd-division/country:et/regional_state:af,Afar
+ocd-division/country:et/regional_state:am,Amhara
+ocd-division/country:et/regional_state:be,Benishangul-Gumuz
+ocd-division/country:et/regional_state:ga,Gambela
+ocd-division/country:et/regional_state:ha,Harari
+ocd-division/country:et/regional_state:or,Oromia
+ocd-division/country:et/regional_state:so,Somali
+ocd-division/country:et/regional_state:sn,"Southern Nations, Nationalities, and Peoples"
+ocd-division/country:et/regional_state:ti,Tigray
+ocd-division/country:et/administration:aa,Addis Ababa
+ocd-division/country:et/administration:dd,Dire Dawa
