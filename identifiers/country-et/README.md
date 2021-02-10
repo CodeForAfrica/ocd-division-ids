@@ -2,4 +2,7 @@
 
 This folder contains the following Ethiopian administrative divisions :
 
-* Regional states [ref](https://en.wikipedia.org/wiki/Regions_of_Ethiopia) represented as *state*.
+## State
+* Regional states, represented as *state* and city administrations represented as *administration*
+
+The OCD identifiers are created based on the ISO 3166-2 code (source)[ref](https://en.wikipedia.org/wiki/ISO_3166-2:ET)
