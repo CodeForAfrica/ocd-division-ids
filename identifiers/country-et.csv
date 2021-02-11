@@ -2,29 +2,28 @@ id,name
 ocd-division/country:et,Ethiopia
 ocd-division/country:et/administration:aa,Addis Ababa
 ocd-division/country:et/administration:aa/ed:44075,44075
-ocd-division/country:et/administration:aa/ed:werda_1_and_9,Werda 1/9
 ocd-division/country:et/administration:aa/ed:werda_10,Werda 10
 ocd-division/country:et/administration:aa/ed:werda_15,Werda 15
 ocd-division/country:et/administration:aa/ed:werda_16,Werda 16
 ocd-division/country:et/administration:aa/ed:werda_17,Werda 17
 ocd-division/country:et/administration:aa/ed:werda_18,Werda 18
 ocd-division/country:et/administration:aa/ed:werda_19,Werda 19
-ocd-division/country:et/administration:aa/ed:werda_2_and_14,Werda 2/14
+ocd-division/country:et/administration:aa/ed:werda_1_and_9,Werda 1/9
 ocd-division/country:et/administration:aa/ed:werda_20,Werda 20
-ocd-division/country:et/administration:aa/ed:werda_21_and_22,Werda 21/22
 ocd-division/country:et/administration:aa/ed:werda_211,Werda 211
+ocd-division/country:et/administration:aa/ed:werda_21_and_22,Werda 21/22
 ocd-division/country:et/administration:aa/ed:werda_23,Werda 23
 ocd-division/country:et/administration:aa/ed:werda_24,Werda 24
 ocd-division/country:et/administration:aa/ed:werda_25,Werda 25
 ocd-division/country:et/administration:aa/ed:werda_26_and_27,Werda 26/27
 ocd-division/country:et/administration:aa/ed:werda_28,Werda 28
+ocd-division/country:et/administration:aa/ed:werda_2_and_14,Werda 2/14
 ocd-division/country:et/administration:aa/ed:werda_3,Werda 3
 ocd-division/country:et/administration:aa/ed:werda_4,Werda 4
 ocd-division/country:et/administration:aa/ed:werda_5,Werda 5
 ocd-division/country:et/administration:aa/ed:werda_6,Werda 6
 ocd-division/country:et/administration:aa/ed:werda_7,Werda 7
 ocd-division/country:et/administration:aa/ed:werda_8,Werda 8
-ocd-division/country:et/administration:aa/ed:woreda_1_and_9,Woreda 1/9
 ocd-division/country:et/administration:aa/ed:woreda_10,Woreda 10
 ocd-division/country:et/administration:aa/ed:woreda_11,Woreda 11
 ocd-division/country:et/administration:aa/ed:woreda_12_and_13,Woreda12/13
@@ -34,13 +33,14 @@ ocd-division/country:et/administration:aa/ed:woreda_16,Woreda 16
 ocd-division/country:et/administration:aa/ed:woreda_17,Woreda 17
 ocd-division/country:et/administration:aa/ed:woreda_18,Woreda 18
 ocd-division/country:et/administration:aa/ed:woreda_19,Woreda 19
-ocd-division/country:et/administration:aa/ed:woreda_2_and_14,Woreda 2 And 14
+ocd-division/country:et/administration:aa/ed:woreda_1_and_9,Woreda 1/9
 ocd-division/country:et/administration:aa/ed:woreda_20,Woreda 20
 ocd-division/country:et/administration:aa/ed:woreda_21_and_22,Woreda 21/22
 ocd-division/country:et/administration:aa/ed:woreda_24,Woreda 24
 ocd-division/country:et/administration:aa/ed:woreda_25,Woreda 25
 ocd-division/country:et/administration:aa/ed:woreda_26_and_27,Woreda 26/27
 ocd-division/country:et/administration:aa/ed:woreda_28,Woreda 28
+ocd-division/country:et/administration:aa/ed:woreda_2_and_14,Woreda 2 And 14
 ocd-division/country:et/administration:aa/ed:woreda_3,Woreda 3
 ocd-division/country:et/administration:aa/ed:woreda_4,Woreda 4
 ocd-division/country:et/administration:aa/ed:woreda_5,Woreda 5
@@ -51,6 +51,15 @@ ocd-division/country:et/administration:dd,Dire Dawa
 ocd-division/country:et/administration:dd/ed:deri_dawa_1,Deri Dawa 1
 ocd-division/country:et/administration:dd/ed:deri_dawa_2,Deri Dawa 2
 ocd-division/country:et/administration:dd/ed:dire_dawa_one,Dire Dawa One
+ocd-division/country:et/regional_state:af,Afar
+ocd-division/country:et/regional_state:am,Amhara
+ocd-division/country:et/regional_state:be,Benishangul-Gumuz
+ocd-division/country:et/regional_state:ga,Gambela
+ocd-division/country:et/regional_state:ha,Harari
+ocd-division/country:et/regional_state:or,Oromia
+ocd-division/country:et/regional_state:sn,"Southern Nations, Nationalities, and Peoples"
+ocd-division/country:et/regional_state:so,Somali
+ocd-division/country:et/regional_state:ti,Tigray
 ocd-division/country:et/state:af,Afar
 ocd-division/country:et/state:af/ed:abaala,Abaala
 ocd-division/country:et/state:af/ed:abala,Abala
@@ -736,7 +745,7 @@ ocd-division/country:et/state:ti/ed:mereb_leh,Mereb Leh
 ocd-division/country:et/state:ti/ed:nebelet,Nebelet
 ocd-division/country:et/state:ti/ed:quiha,Quiha
 ocd-division/country:et/state:ti/ed:rama,Rama
-ocd-division/country:et/state:ti/ed:amba,Amba
+ocd-division/country:et/state:ti/ed:s_ts_amba,S_Ts_Amba
 ocd-division/country:et/state:ti/ed:seharte_sameria,Seharte Sameria
 ocd-division/country:et/state:ti/ed:sehert_samre_dengola,Sehert Samre Dengola
 ocd-division/country:et/state:ti/ed:seleklaka,Seleklaka
