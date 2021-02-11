@@ -1,14 +1,6 @@
-id,constituency
-ocd-division/country:et/state:am,Amhara
-ocd-division/country:et/state:be,Benishangul-Gumuz
-ocd-division/country:et/state:ga,Gambela
-ocd-division/country:et/state:ha,Harari
-ocd-division/country:et/state:or,Oromia
-ocd-division/country:et/state:so,Somali
-ocd-division/country:et/state:sn,"Southern Nations, Nationalities, and Peoples"
-ocd-division/country:et/state:ti,Tigray
+id,name
+ocd-division/country:et,Ethiopia
 ocd-division/country:et/administration:aa,Addis Ababa
-ocd-division/country:et/administration:dd,Dire Dawa
 ocd-division/country:et/administration:aa/ed:44075,44075
 ocd-division/country:et/administration:aa/ed:werda_1_and_9,Werda 1/9
 ocd-division/country:et/administration:aa/ed:werda_10,Werda 10
@@ -42,7 +34,7 @@ ocd-division/country:et/administration:aa/ed:woreda_16,Woreda 16
 ocd-division/country:et/administration:aa/ed:woreda_17,Woreda 17
 ocd-division/country:et/administration:aa/ed:woreda_18,Woreda 18
 ocd-division/country:et/administration:aa/ed:woreda_19,Woreda 19
-ocd-division/country:et/administration:aa/ed:woreda_2_and_14,Woreda 2 and 14
+ocd-division/country:et/administration:aa/ed:woreda_2_and_14,Woreda 2 And 14
 ocd-division/country:et/administration:aa/ed:woreda_20,Woreda 20
 ocd-division/country:et/administration:aa/ed:woreda_21_and_22,Woreda 21/22
 ocd-division/country:et/administration:aa/ed:woreda_24,Woreda 24
@@ -55,6 +47,11 @@ ocd-division/country:et/administration:aa/ed:woreda_5,Woreda 5
 ocd-division/country:et/administration:aa/ed:woreda_6,Woreda 6
 ocd-division/country:et/administration:aa/ed:woreda_7,Woreda 7
 ocd-division/country:et/administration:aa/ed:woreda_8,Woreda 8
+ocd-division/country:et/administration:dd,Dire Dawa
+ocd-division/country:et/administration:dd/ed:deri_dawa_1,Deri Dawa 1
+ocd-division/country:et/administration:dd/ed:deri_dawa_2,Deri Dawa 2
+ocd-division/country:et/administration:dd/ed:dire_dawa_one,Dire Dawa One
+ocd-division/country:et/state:af,Afar
 ocd-division/country:et/state:af/ed:abaala,Abaala
 ocd-division/country:et/state:af/ed:abala,Abala
 ocd-division/country:et/state:af/ed:amibara,Amibara
@@ -67,6 +64,7 @@ ocd-division/country:et/state:af/ed:delifagh,Delifagh
 ocd-division/country:et/state:af/ed:dubti,Dubti
 ocd-division/country:et/state:af/ed:gewane,Gewane
 ocd-division/country:et/state:af/ed:gulina,Gulina
+ocd-division/country:et/state:am,Amhara
 ocd-division/country:et/state:am/ed:1,1
 ocd-division/country:et/state:am/ed:addis_kadam,Addis Kadam
 ocd-division/country:et/state:am/ed:addis_qdema,Addis Qdema
@@ -86,7 +84,7 @@ ocd-division/country:et/state:am/ed:belessa,Belessa
 ocd-division/country:et/state:am/ed:bistima,Bistima
 ocd-division/country:et/state:am/ed:bugna,Bugna
 ocd-division/country:et/state:am/ed:bure,Bure
-ocd-division/country:et/state:am/ed:burtkan_and_argoba_liyu,Burtkan and  Argoba Liyu
+ocd-division/country:et/state:am/ed:burtkan_and_argoba_liyu,Burtkan And Argoba Liyu
 ocd-division/country:et/state:am/ed:chagni,Chagni
 ocd-division/country:et/state:am/ed:chilga_2,Chilga 2
 ocd-division/country:et/state:am/ed:chirka,Chirka
@@ -106,7 +104,7 @@ ocd-division/country:et/state:am/ed:debresina_1,Debresina 1
 ocd-division/country:et/state:am/ed:debresina_2,Debresina 2
 ocd-division/country:et/state:am/ed:debrework,Debrework
 ocd-division/country:et/state:am/ed:dega_damot,Dega Damot
-ocd-division/country:et/state:am/ed:degothewon_and_bubugn,Degothewon and Bubugn
+ocd-division/country:et/state:am/ed:degothewon_and_bubugn,Degothewon And Bubugn
 ocd-division/country:et/state:am/ed:dehana,Dehana
 ocd-division/country:et/state:am/ed:dejen,Dejen
 ocd-division/country:et/state:am/ed:delanta,Delanta
@@ -124,7 +122,7 @@ ocd-division/country:et/state:am/ed:dil_yibza,Dil Yibza
 ocd-division/country:et/state:am/ed:dilybiza,Dilybiza
 ocd-division/country:et/state:am/ed:ebinat_2,Ebinat 2
 ocd-division/country:et/state:am/ed:efeson,Efeson
-ocd-division/country:et/state:am/ed:enemay_and_bichena,Enemay and Bichena
+ocd-division/country:et/state:am/ed:enemay_and_bichena,Enemay And Bichena
 ocd-division/country:et/state:am/ed:estie_2,Estie 2
 ocd-division/country:et/state:am/ed:fareta_1,Fareta 1
 ocd-division/country:et/state:am/ed:farta_3,Farta 3
@@ -164,7 +162,7 @@ ocd-division/country:et/state:am/ed:legambo,Legambo
 ocd-division/country:et/state:am/ed:liben,Liben
 ocd-division/country:et/state:am/ed:lumame,Lumame
 ocd-division/country:et/state:am/ed:majete,Majete
-ocd-division/country:et/state:am/ed:matebia_and_quara,Matebia and Quara
+ocd-division/country:et/state:am/ed:matebia_and_quara,Matebia And Quara
 ocd-division/country:et/state:am/ed:mehal_meda,Mehal Meda
 ocd-division/country:et/state:am/ed:mehalmeda,Mehalmeda
 ocd-division/country:et/state:am/ed:meket_1,Meket 1
@@ -220,32 +218,33 @@ ocd-division/country:et/state:am/ed:yecharqa,Yecharqa
 ocd-division/country:et/state:am/ed:yechereka,Yechereka
 ocd-division/country:et/state:am/ed:yedwha,Yedwha
 ocd-division/country:et/state:am/ed:yiubia,Yiubia
-ocd-division/country:et/state:be/ed:asossa_megele,Asossa Megele
-ocd-division/country:et/state:be/ed:assosa_megale,Assosa Megale
-ocd-division/country:et/state:be/ed:assossa_hoha,Assossa Hoha
-ocd-division/country:et/state:be/ed:bambasi,Bambasi
-ocd-division/country:et/state:be/ed:bullen_and_wombera,Bullen and Wombera
-ocd-division/country:et/state:be/ed:daleti_medebegna,Daleti Medebegna
-ocd-division/country:et/state:be/ed:delati_regular,Delati Regular
-ocd-division/country:et/state:be/ed:kamashi,Kamashi
-ocd-division/country:et/state:be/ed:kemashi,Kemashi
-ocd-division/country:et/state:be/ed:mao_and_komospecia,Mao and Komospecia
-ocd-division/country:et/state:be/ed:mao_komo,Mao Komo
-ocd-division/country:et/state:be/ed:metekel,Metekel
-ocd-division/country:et/state:be/ed:sheqole,Sheqole
-ocd-division/country:et/state:be/ed:sherkole,Sherkole
-ocd-division/country:et/state:be/ed:shinasha_special,Shinasha Special
-ocd-division/country:et/administration:dd/ed:deri_dawa_1,Deri Dawa 1
-ocd-division/country:et/administration:dd/ed:deri_dawa_2,Deri Dawa 2
-ocd-division/country:et/administration:dd/ed:dire_dawa_one,Dire Dawa One
+ocd-division/country:et/state:be,Benishangul-Gumuz
+ocd-division/country:et/state:be/ed:asossa_megele,Gumuz
+ocd-division/country:et/state:be/ed:assosa_megale,Gumuz
+ocd-division/country:et/state:be/ed:assossa_hoha,Gumuz
+ocd-division/country:et/state:be/ed:bambasi,Gumuz
+ocd-division/country:et/state:be/ed:bullen_and_wombera,Gumuz
+ocd-division/country:et/state:be/ed:daleti_medebegna,Gumuz
+ocd-division/country:et/state:be/ed:delati_regular,Gumuz
+ocd-division/country:et/state:be/ed:kamashi,Gumuz
+ocd-division/country:et/state:be/ed:kemashi,Gumuz
+ocd-division/country:et/state:be/ed:mao_and_komospecia,Gumuz
+ocd-division/country:et/state:be/ed:mao_komo,Gumuz
+ocd-division/country:et/state:be/ed:metekel,Gumuz
+ocd-division/country:et/state:be/ed:sheqole,Gumuz
+ocd-division/country:et/state:be/ed:sherkole,Gumuz
+ocd-division/country:et/state:be/ed:shinasha_special,Gumuz
+ocd-division/country:et/state:ga,Gambela
 ocd-division/country:et/state:ga/ed:gambela_ketema,Gambela Ketema
 ocd-division/country:et/state:ga/ed:godere,Godere
 ocd-division/country:et/state:ga/ed:lare,Lare
+ocd-division/country:et/state:ha,Harari
 ocd-division/country:et/state:ha/ed:harari,Harari
 ocd-division/country:et/state:ha/ed:jegol_liyu,Jegol Liyu
 ocd-division/country:et/state:ha/ed:jegol_special,Jegol Special
-ocd-division/country:et/state:ha/ed:jegol_zuria_and_hundeni,Jegol Zuria and Hundeni
+ocd-division/country:et/state:ha/ed:jegol_zuria_and_hundeni,Jegol Zuria And Hundeni
 ocd-division/country:et/state:ha/ed:jegule_special_vote_area,Jegule Special Vote Area
+ocd-division/country:et/state:or,Oromia
 ocd-division/country:et/state:or/ed:abomsa,Abomsa
 ocd-division/country:et/state:or/ed:abote_derra,Abote Derra
 ocd-division/country:et/state:or/ed:adaa_berga,Adaa Berga
@@ -337,7 +336,7 @@ ocd-division/country:et/state:or/ed:fincha,Fincha
 ocd-division/country:et/state:or/ed:fugnyanbira,Fugnyanbira
 ocd-division/country:et/state:or/ed:gallo,Gallo
 ocd-division/country:et/state:or/ed:gatira,Gatira
-ocd-division/country:et/state:or/ed:gechi_borecha,Gechi-Borecha
+ocd-division/country:et/state:or/ed:gechi_borecha,Gechi
 ocd-division/country:et/state:or/ed:gedab_hasassa,Gedab Hasassa
 ocd-division/country:et/state:or/ed:gelila,Gelila
 ocd-division/country:et/state:or/ed:gera,Gera
@@ -368,7 +367,7 @@ ocd-division/country:et/state:or/ed:haremaya_2,Haremaya 2
 ocd-division/country:et/state:or/ed:harewacha,Harewacha
 ocd-division/country:et/state:or/ed:hirna,Hirna
 ocd-division/country:et/state:or/ed:inang_bila,Inang Bila
-ocd-division/country:et/state:or/ed:j_and_arjo,J and Arjo
+ocd-division/country:et/state:or/ed:j_and_arjo,J And Arjo
 ocd-division/country:et/state:or/ed:jarra,Jarra
 ocd-division/country:et/state:or/ed:jeldu,Jeldu
 ocd-division/country:et/state:or/ed:jeledu,Jeledu
@@ -466,11 +465,12 @@ ocd-division/country:et/state:or/ed:wonchi,Wonchi
 ocd-division/country:et/state:or/ed:wuchale_jidda,Wuchale Jidda
 ocd-division/country:et/state:or/ed:yabello,Yabello
 ocd-division/country:et/state:or/ed:yayo,Yayo
-ocd-division/country:et/state:or/ed:yayyag_and_llalue_and_d_libanos,Yayyag and Llalue and D Libanos
+ocd-division/country:et/state:or/ed:yayyag_and_llalue_and_d_libanos,Yayyag And Llalue And D Libanos
 ocd-division/country:et/state:or/ed:yeyye_gulualee,Yeyye Gulualee
 ocd-division/country:et/state:or/ed:yubdo,Yubdo
 ocd-division/country:et/state:or/ed:ziway,Ziway
-ocd-division/country:et/state:or/ed:ziway_and_batu,Ziway and Batu
+ocd-division/country:et/state:or/ed:ziway_and_batu,Ziway And Batu
+ocd-division/country:et/state:sn,"Southern Nations, Nationalities, And Peoples"
 ocd-division/country:et/state:sn/ed:adeya_kaka,Adeya Kaka
 ocd-division/country:et/state:sn/ed:adia_kaka,Adia Kaka
 ocd-division/country:et/state:sn/ed:aleta_chuko,Aleta Chuko
@@ -530,14 +530,14 @@ ocd-division/country:et/state:sn/ed:dessie,Dessie
 ocd-division/country:et/state:sn/ed:dilla,Dilla
 ocd-division/country:et/state:sn/ed:dirashe_special,Dirashe Special
 ocd-division/country:et/state:sn/ed:dita,Dita
-ocd-division/country:et/state:sn/ed:dita_and_zada,Dita and Zada
+ocd-division/country:et/state:sn/ed:dita_and_zada,Dita And Zada
 ocd-division/country:et/state:sn/ed:dizi_liyou,Dizi Liyou
 ocd-division/country:et/state:sn/ed:dizi_special,Dizi Special
 ocd-division/country:et/state:sn/ed:duba,Duba
 ocd-division/country:et/state:sn/ed:eaze_1,Eaze – 1
 ocd-division/country:et/state:sn/ed:eaze_2,Eaze 2
 ocd-division/country:et/state:sn/ed:emdibir,Emdibir
-ocd-division/country:et/state:sn/ed:enemor_and_ener_2,Enemor and Ener 1
+ocd-division/country:et/state:sn/ed:enemor_and_ener_2,Enemor And Ener 1
 ocd-division/country:et/state:sn/ed:felege_selam,Felege Selam
 ocd-division/country:et/state:sn/ed:fishagenet,Fishagenet
 ocd-division/country:et/state:sn/ed:fisiha_genet,Fisiha Genet
@@ -604,8 +604,8 @@ ocd-division/country:et/state:sn/ed:masha,Masha
 ocd-division/country:et/state:sn/ed:meainet_special,Meainet Special
 ocd-division/country:et/state:sn/ed:melekoza,Melekoza
 ocd-division/country:et/state:sn/ed:ment_liyou,Ment Liyou
-ocd-division/country:et/state:sn/ed:meskan_and_mareko_1,Meskan and Mareko 1
-ocd-division/country:et/state:sn/ed:meskan_and_mareko_2,Meskan and Mareko 2
+ocd-division/country:et/state:sn/ed:meskan_and_mareko_1,Meskan And Mareko 1
+ocd-division/country:et/state:sn/ed:meskan_and_mareko_2,Meskan And Mareko 2
 ocd-division/country:et/state:sn/ed:meskan_mareko_2,Meskan Mareko 2
 ocd-division/country:et/state:sn/ed:meskan_wereda_1,Meskan Wereda 1
 ocd-division/country:et/state:sn/ed:mizan_teferi,Mizan Teferi
@@ -637,7 +637,7 @@ ocd-division/country:et/state:sn/ed:tembaro,Tembaro
 ocd-division/country:et/state:sn/ed:tepi,Tepi
 ocd-division/country:et/state:sn/ed:tsemay_special,Tsemay Special
 ocd-division/country:et/state:sn/ed:tulla,Tulla
-ocd-division/country:et/state:sn/ed:undefined,undefined
+ocd-division/country:et/state:sn/ed:undefined,Undefined
 ocd-division/country:et/state:sn/ed:wacha,Wacha
 ocd-division/country:et/state:sn/ed:walikit,Walikit
 ocd-division/country:et/state:sn/ed:wanago_1,Wanago 1
@@ -655,6 +655,7 @@ ocd-division/country:et/state:sn/ed:yirgacaffe_2,Yirgacaffe 2
 ocd-division/country:et/state:sn/ed:zala_dara_malo,Zala Dara Malo
 ocd-division/country:et/state:sn/ed:zaladaramalo,Zaladaramalo
 ocd-division/country:et/state:sn/ed:zeysie_special,Zeysie Special
+ocd-division/country:et/state:so,Somali
 ocd-division/country:et/state:so/ed:arabi,Arabi
 ocd-division/country:et/state:so/ed:aware,Aware
 ocd-division/country:et/state:so/ed:aysha,Aysha
@@ -677,6 +678,7 @@ ocd-division/country:et/state:so/ed:qebri_dehar,Qebri Dehar
 ocd-division/country:et/state:so/ed:segeg,Segeg
 ocd-division/country:et/state:so/ed:shinile,Shinile
 ocd-division/country:et/state:so/ed:warder,Warder
+ocd-division/country:et/state:ti,Tigray
 ocd-division/country:et/state:ti/ed:a_gudem,A/Gudem
 ocd-division/country:et/state:ti/ed:abiy_adi,Abiy Adi
 ocd-division/country:et/state:ti/ed:adigrat,Adigrat
@@ -696,7 +698,7 @@ ocd-division/country:et/state:ti/ed:alamata,Alamata
 ocd-division/country:et/state:ti/ed:ambalage,Ambalage
 ocd-division/country:et/state:ti/ed:assegide_tsimbla,Assegide Tsimbla
 ocd-division/country:et/state:ti/ed:atsbi,Atsbi
-ocd-division/country:et/state:ti/ed:atsbi_wenberta,Atsbi-Wenberta
+ocd-division/country:et/state:ti/ed:atsbi_wenberta,Atsbi
 ocd-division/country:et/state:ti/ed:atsbiwenberta,Atsbiwenberta
 ocd-division/country:et/state:ti/ed:axum,Axum
 ocd-division/country:et/state:ti/ed:bizet,Bizet
@@ -709,7 +711,7 @@ ocd-division/country:et/state:ti/ed:enderta,Enderta
 ocd-division/country:et/state:ti/ed:entcho,Entcho
 ocd-division/country:et/state:ti/ed:enticho,Enticho
 ocd-division/country:et/state:ti/ed:erob_liyu,Erob Liyu
-ocd-division/country:et/state:ti/ed:erob_special_electoral_district,Erob Special Electoral District
+ocd-division/country:et/state:ti/ed:erob_special_electoral_district,Erob Special
 ocd-division/country:et/state:ti/ed:erobe_special,Erobe Special
 ocd-division/country:et/state:ti/ed:feres_mai,Feres Mai
 ocd-division/country:et/state:ti/ed:gulmakda,Gulmakda
@@ -734,7 +736,7 @@ ocd-division/country:et/state:ti/ed:mereb_leh,Mereb Leh
 ocd-division/country:et/state:ti/ed:nebelet,Nebelet
 ocd-division/country:et/state:ti/ed:quiha,Quiha
 ocd-division/country:et/state:ti/ed:rama,Rama
-ocd-division/country:et/state:ti/ed:s_ts_amba,S_Ts_Amba
+ocd-division/country:et/state:ti/ed:amba,Amba
 ocd-division/country:et/state:ti/ed:seharte_sameria,Seharte Sameria
 ocd-division/country:et/state:ti/ed:sehert_samre_dengola,Sehert Samre Dengola
 ocd-division/country:et/state:ti/ed:seleklaka,Seleklaka
